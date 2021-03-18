@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "airplaneName": "Cirrus SR22",
+        "additionalInfo":"Interdum incidunt iste mollit quaerat cupiditate vero labore atque varius sequi turpis omnis.",
+        "passengerCount":"22",
+        "date":"2021-03-14"
+    },
+    {
+        "id":2,
+        "airplaneName": "Boeing 787",
+        "additionalInfo":"Tempor phasellus aut architecto nam turpis ea veritatis consectetuer faucibus! Maiores accumsan, tempore, hic officia, minima.",
+        "passengerCount":"35",
+        "date":"2021-03-18"
+    },
+    {
+        "id":3,
+        "airplaneName": "Lockheed SR-71 Blackbird",
+        "additionalInfo":"Mus eos ad proin veritatis adipisci? Sequi cubilia sagittis quisque turpis animi beatae nonummy sapien nonummy.",
+        "passengerCount":"12",
+        "date":"2021-03-24"
+    },
+    {
+        "id":4,
+        "airplaneName": "Learjet 23",
+        "additionalInfo":"Dapibus urna montes cras laborum vehicula. Repudiandae. Lobortis, eleifend sollicitudin? Porttitor dolor harum.",
+        "passengerCount":"42",
+        "date":"2021-03-27"
+    },
+    {
+        "id":5,
+        "airplaneName": "Douglas DC-3",
+        "additionalInfo":"Fugit orci fugit pede et praesentium, porro mus corporis leo. Dolor elementum? Facilis quidem illum maxime.",
+        "passengerCount":"44",
+        "date":"2021-03-31"
+    }
+]
